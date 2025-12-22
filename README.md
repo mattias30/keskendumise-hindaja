@@ -11,9 +11,9 @@
 #####   2. Developer tools
 #####
 ### Kasutus:
-#####   Programmist väljumine 2 viisil: 
-#####       1. 'q' (kui valida video nägemise võimalus, siis hiirega videopildil hoides ning siis 'q' vajutamisel);
-#####       2. kombinatsioon 'ctrl + alt + e' terminalis. (kombinatsioon on valitud selliselt, et suure tõenäosusega klaviatuuri kasutusel programm kogemata ei sulge);
+#####       Programmist väljumine 2 viisil: 
+#####           1. 'q' (kui valida video nägemise võimalus, siis hiirega videopildil hoides ning siis 'q' vajutamisel);
+#####           2. kombinatsioon 'ctrl + alt + e' terminalis. (kombinatsioon on valitud selliselt, et suure tõenäosusega klaviatuuri kasutusel programm kogemata ei sulge);
 #####   
 #####   Programmi lõpus kuvatakse vasakul praegust sooritust. Graafikuna kuvatakse kuni 25 järjestikkust eelnevat tulemust.
 #####   Lisaks kuvatakse ka klaviatuuri kontrollimise tulemus, kui see valik sai alguses märgitud.
