@@ -1,18 +1,6 @@
 import tkinter as tk
 
 
-
-
-# def clicked():
-# 
-#     res = "You wrote" + txt.get()
-#     lbl.configure(text = res)
-
-
-
-
-
-
 ekraan = tk.Tk()
  
 
