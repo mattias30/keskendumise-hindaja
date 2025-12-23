@@ -8,9 +8,8 @@
 #####           Samuti saab valida videopildi nägemist, näiteks programmi toimimise kontrolliks.
 #####
 ### Juhis - vaja laadida:
-#####   1. Requirements
-#####   2. VS Tools
-#####
+#####   1. variant (conda) - ``conda env create -f environment.yml``
+#####   2. variant - ``pip install -r requirements.txt`` ning vaja laadida build tools ja veenduda, et Pythoni versioon on sobilik.
 ### Kasutus:
 #####   Kui esimesel kasutusel ei toimi, proovida uuesti käivitada.
 #####   Programmist väljumine 2 viisil: 
